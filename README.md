@@ -34,5 +34,5 @@ I'm learning Rust and Solidity to use in future projects, i like learn about Blo
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-    <img src="https://beaugunderson.gallerycdn.vsassets.io/extensions/beaugunderson/solidity-extended/3.0.2/1507572010216/Microsoft.VisualStudio.Services.Icons.Default">Solidity</img>
+    <img src="https://beaugunderson.gallerycdn.vsassets.io/extensions/beaugunderson/solidity-extended/3.0.2/1507572010216/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40" />
 </div>
